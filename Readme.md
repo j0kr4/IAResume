@@ -8,12 +8,12 @@ Créer l'environnement virtuel python
 
 cd /chemin/vers/le/projet
 python -m venv venv
-# Linux/MacOS
+
+Sur Linux/MacOS
 source venv/bin/activate
-# Windows
+
+Sur Windows
 source venv\Scripts\activate
-
-
 
 Installer le model llama2 depuis Ollama.
 Récupérer le model depuis le projet:
