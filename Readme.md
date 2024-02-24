@@ -13,6 +13,8 @@ source venv/bin/activate
 # Windows
 source venv\Scripts\activate
 
+
+
 Installer le model llama2 depuis Ollama.
 Récupérer le model depuis le projet:
 ollama pull llama2
